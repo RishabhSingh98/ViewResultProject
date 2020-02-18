@@ -1,0 +1,12 @@
+com\capgemini\exam\ViewResult\App.class
+com\capgemini\dao\ExamDao.class
+com\capgemini\exception\ExamException.class
+com\capgemini\dao\ExamDaoImpl.class
+com\capgemini\repositary\ExamRepo.class
+com\capgemini\entity\User.class
+com\capgemini\exception\IdException.class
+com\capgemini\exception\ValidationException.class
+com\capgemini\service\ExamServiceImpl.class
+com\capgemini\entity\ExamResult.class
+com\capgemini\service\ExamService.class
+com\capgemini\entity\Exam.class

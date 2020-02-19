@@ -38,7 +38,7 @@ public class TestResult {
 //	@Test
 //	@DisplayName(" Test Exam Exception  if Test ID is not valid ")
 //		public void testExamResult5() throws ExamException {
-//			assertThrows (Exam [examId=1, examname=Java], user=User [userId=1001, name=Hari, password=H@123], marks=50]]== 6));
+//			assertEquals(ser);
 //		}
 	
 }
